@@ -31,3 +31,4 @@ https://raw.githubusercontent.com/jruponen/watson_ml_with_wdp/master/Node-RED_Pr
 10. Finally, press "Deploy" on the Node-RED and go to your Node-RED app url with "/ui" extension, e.g:
 https://jrnodered.mybluemix.net/ui (or whatever your Node-RED app URL is)
 
+![screenshot](https://raw.githubusercontent.com/jruponen/watson_ml_with_wdp/master/node-red_app_screenshot.png)
